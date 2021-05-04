@@ -19,7 +19,7 @@
       "symbol": "UMBR",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/oskii/umbria-default-token-list/master/assets/umbria-logo.jpg"
+      "logoURI": "https://raw.githubusercontent.com/BarneyChambers/umbria-default-token-list/logo/umbria-logo.jpg"
     },
     {
       "name": "0xBitcoin Token",
