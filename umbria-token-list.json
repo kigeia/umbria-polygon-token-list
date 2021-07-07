@@ -685,5 +685,13 @@
       "chainId": 80001,
       "logoURI": ""
     }
+    {
+      "name": "Adament token",
+      "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+      "symbol": "ADDY",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": ""
+    }
   ]
 }
